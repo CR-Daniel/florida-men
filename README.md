@@ -1,12 +1,12 @@
-#Florida Man Game: Guess the True Headline!
+# Florida Man Game: Guess the True Headline!
 
-##Overview
+## Overview
 
 Welcome to the [Florida Man Game](https://cr-daniel.github.io/florida-men/), a fun and engaging web game that tests your ability to discern fact from fiction. Inspired by the popular Florida Man meme, this game presents players with two outrageous headlines at a time, challenging them to guess which is the real Florida Man headline.
 
 ![Game Screenshot](./gameplay.gif)
 
-##Features
+## Features
 
 * True and False Headlines: The game presents you with real and made-up Florida Man headlines. Your task is to identify the real one.
 
@@ -14,7 +14,7 @@ Welcome to the [Florida Man Game](https://cr-daniel.github.io/florida-men/), a f
 
 * High Score Tracking: The game keeps track of your high score, pushing you to improve your game and beat your previous records.
 
-##Tech Stack
+## Tech Stack
 
 * HTML5: Markup language for creating the structure of the web pages.
 
