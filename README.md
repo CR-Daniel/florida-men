@@ -4,7 +4,7 @@
 
 Welcome to the [Florida Man Game](https://cr-daniel.github.io/florida-men/), a fun and engaging web game that tests your ability to discern fact from fiction. Inspired by the popular Florida Man meme, this game presents players with two outrageous headlines at a time, challenging them to guess which is the real Florida Man headline.
 
-![Game Screenshot](./screenshot.png)
+![Game Screenshot](./gameplay.gif)
 
 ##Features
 
